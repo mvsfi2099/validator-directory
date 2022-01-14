@@ -1,0 +1,10 @@
+{
+	"node_name": "node name",
+	"contact": {
+		"email": "validator@example.com",
+        "twitter":"exampleaccount",
+        "telegram": "@validator123",
+        "website": "https://www.example.com"
+	},
+	"description": "example description"
+}
